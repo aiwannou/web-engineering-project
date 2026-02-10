@@ -19,12 +19,12 @@ nav {
 nav a {
   margin-right: 15px;
   text-decoration: none;
-  color: #333;
+  color: ##e53935;
   font-weight: bold;
 }
 
 nav a:hover {
-  color: #0077cc;
+  color: #d2b48c;
 }
 
 main {
@@ -49,14 +49,14 @@ main {
 }
 
 .card p {
-  color: #555;
+  color: #8b0000;
 }
 
 button {
   margin-top: 10px;
   padding: 10px 15px;
   border: none;
-  background: #0077cc;
+  background: #d9b44a;
   color: white;
   border-radius: 4px;
   cursor: pointer;
